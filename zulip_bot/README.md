@@ -88,5 +88,6 @@ This project automates sending and summarizing messages in a Zulip chat stream u
     - Group related messages into threads (suing embeddings) even if users didn’t use the same topic or replied directly.
     - Topic Auto-Naming: predicting relevant topic title from messages (users don't need to input one manually).
     - RAG: Training a bot on all past chats to act as a *"know it all secretary"*
+ - Unit Testing
 
 
